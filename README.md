@@ -9,9 +9,9 @@
 
 ## Installation and Running
 1. Clone the repository
-```bash
-git clone https://github.com/your-username/url-shortener-backend.git
-cd url-shortener-backend
+```bash[
+git clone https://github.com/FrontEnd-Guy/url-shrinkener-api.git
+cd url-shortener-api
 ```
 2. Install dependencies
 ```bash
